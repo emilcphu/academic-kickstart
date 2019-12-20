@@ -17,6 +17,9 @@ organizations:
 - name: Copenhagen University, Econ Department
   url: ""
 
+# Avatar
+avatar:"profilbillede.jpg"
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -61,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "emil.chrisander@econ.ku.dk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
