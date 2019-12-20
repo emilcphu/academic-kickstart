@@ -17,11 +17,8 @@ organizations:
 - name: Copenhagen University, Econ Department
   url: ""
 
-# Avatar
-avatar:"profilbillede.jpg"
-
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning and economics
 
 interests:
 - Artificial Intelligence
