@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Emil Chrisander
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Fellowship at Center of Social Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Copenhagen University, Econ Department
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
