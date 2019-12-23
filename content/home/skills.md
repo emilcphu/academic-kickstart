@@ -18,18 +18,23 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
+[[feature]]
+icon = "python"
+icon_pack = "fab"
+name = "R"
+
+[[feature]]
+icon = "fa-js"
+icon_pack = "fab"
+name = "R"
+  
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+
 
 +++
